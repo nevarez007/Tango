@@ -24,7 +24,7 @@
 
     <section>
       <h2>Video de clase</h2>
-      <video src="https://github.com/user-attachments/assets/71729487-163e-4cb9-af17-cd7aac09c6ad" controls width="400"></video>
+      <video src="https://github.com/user-attachments/assets/088f511a-f01b-4555-aec5-8c163675a4e5" controls width="400"></video>
     </section>
 
   </main>
