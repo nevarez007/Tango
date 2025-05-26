@@ -18,7 +18,9 @@
   <main>
     <section>
       <h2>¿Qué es el Tango?</h2>
-      <p>El tango es una danza sensual y elegante originaria de Argentina y Uruguay. Se caracteriza por su fuerte conexión entre la pareja, pasos marcados, pausas dramáticas y una profunda expresión emocional.</p>
+      <p>El tango es una danza sensual y elegante originaria de Argentina y Uruguay. Se caracteriza por su fuerte conexión entre la pareja, pasos marcados, pausas dramáticas y una profunda expresión emocional.
+      El tango es un género musical y baile rioplatense, popular en el ámbito urbano de Argentina y Uruguay. Su forma musical es binaria (tema y estribillo) y tiene compás de dos por cuatro.
+      En cuanto al baile, se trata de una danza coreográfica que se desarrolla a partir del abrazo de la pareja. Se trata de un baile sensual que, a comienzos del siglo XX, se practicaba sólo en clubes nocturnos, ya que estaba prohibido por incitación a la lujuria. Existen múltiples pasos de tango que lo convierten en una danza muy compleja y no apta para principiantes.A diferencia de la ópera, no existen restricciones acerca de la tonalidad en la que debería interpretarse un tango; del mismo modo, la mayoría de las piezas pueden ser cantadas por hombres y mujeres indistintamente.</p>
       <img src="https://observatorio.tec.mx/wp-content/uploads/2022/03/EntreTangoyMatemC3A1ticas.jpg" alt="Pareja bailando tango" width="400">
     </section>
 
