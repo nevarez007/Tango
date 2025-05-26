@@ -1,7 +1,6 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-  <title>Tango - Academia Estrella</title>
   <link rel="stylesheet" href="css/estilos.css">
 </head>
 <body>
@@ -25,7 +24,7 @@
 
     <section>
       <h2>Video de clase</h2>
-      <video src="https://github.com/user-attachments/assets/dc05fc43-ddf2-4080-9ee1-b67874827013" width="400" controls></video>
+      <video src="https://github.com/user-attachments/assets/b252de87-b565-4a76-958e-c6e7520d866c" width="400" controls></video>
     </section>
 
   </main>
