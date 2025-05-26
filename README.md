@@ -31,7 +31,7 @@
 
   <footer>
     <marquee>¡Aprende a bailar el Tango con pasión y elegancia!</marquee>
-    2025 Academia Estrella</p>
+    2025 Academia Estrella
   </footer>
 </body>
 </html>
